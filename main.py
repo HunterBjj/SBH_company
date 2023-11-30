@@ -22,7 +22,7 @@ from pyrogram.handlers import MessageHandler
 from pyrogram.types import Message
 from connect_db import insert_db, view_user
 
-api_id = 000  # Добавить свой id и hash
+api_id = 000  # Добавить свой id и hash.
 api_hash = ''
 data_auth = []
 check_admin = False

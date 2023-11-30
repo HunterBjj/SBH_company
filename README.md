@@ -23,7 +23,7 @@
     - api_id = ;
     - api_hash = " ".
 
-  Приложение состоит из пяти html страниц:
+  Приложение состоит из сообщений, которые отправляет бот:
   
   ![image](https://github.com/HunterBjj/SBH_company/assets/64096687/eb74851a-8cd5-4a72-bb87-9e98376f7d58)
    <p align="center"> Рисунок 1 - Работа бота </p>

@@ -15,6 +15,7 @@
 ЯП -- python. Использовать sqlalchemy (asyncpg) - для БД, pyrogram - для взаимодействия с Telegram API. Логировать каждую успешную отправку сообщения с помощью loguru. Сделать возможность просмотра кол-во зарегистрированный людей в БД за сегодня с помощью отправки команды /users_today в избранное аккаунта.
 
 Для запуска телеграмм бота необходимо:
+- git clone https://github.com/HunterBjj/SBH_company/;
 - pip install pyrogram;
 - pip install asyncpg;
 - установить и настроить БД в файле connect_db;
